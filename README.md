@@ -12,6 +12,11 @@ git clone https://github.com/bradjc/niu-api
 python3 setup.py install
 ```
 
+Then run any command to get the login information, such as:
+
+```
+$ niu-api trips.detailed_date date=20221028
+```
 
 Configuration
 -------------
